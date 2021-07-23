@@ -7,9 +7,13 @@
  
  The game has two levels, but only the first one works when I upload to the unity website.
  
- The car model was made by https://sketchfab.com/Lexyc16 and the tyre marks model was made by https://github.com/Nition/UnitySkidmarks. The track used on the second level is 
+ The car model was made by https://sketchfab.com/Lexyc16 and the tire marks model was made by https://github.com/Nition/UnitySkidmarks.
  
- https://assetstore.unity.com/packages/3d/environments/roadways/race-tracks-140501#reviews. The rest was made by me.
+ The track used on the second level is https://assetstore.unity.com/packages/3d/environments/roadways/race-tracks-140501#reviews. 
+ 
+ The gameplay, car physics, UI and the rest were made by me. I learned from YouTube Unity tutorials. 
+ 
+ The most difficult part was setting up the handling so that the car feels under control while playing with the keyboard but also having a tendency to drift.
 
 
 
