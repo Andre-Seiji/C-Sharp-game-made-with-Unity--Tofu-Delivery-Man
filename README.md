@@ -3,9 +3,9 @@
  
  This project is a C# drift game. I'm a big fan of racing games and I always wanted to create one. 
  
- So I choose the unity engine since it is easy for beginners and I also wanted to practice C#. 
+ So I choose the *Unity* engine since it is easy for beginners and I also wanted to practice C#. 
  
- The game has two levels, but only the first one works when I upload to the unity website.
+ The game has two levels, but only the first one works when I upload to the *Unity* website.
  
  The car model was made by https://sketchfab.com/Lexyc16 and the tire marks model was made by https://github.com/Nition/UnitySkidmarks.
  
@@ -21,4 +21,4 @@
 
 (The first level)
 
-You can play the game on the unity website: https://play.unity.com/mg/other/tofu-delivery-man-drift-game
+**You can play the game on the Unity website:** https://play.unity.com/mg/other/tofu-delivery-man-drift-game
